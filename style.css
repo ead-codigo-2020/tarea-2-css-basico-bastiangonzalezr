@@ -1,0 +1,11 @@
+h1 {
+  font-family: Helvetica, Arial, Sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: Helvetica, Sans-serif;
+  background-color: #88888;
+  color: #222222;
+  text-align: left;
+}
